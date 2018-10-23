@@ -1,0 +1,28 @@
+Speed optimize checking tool name:
+
+1. https://developers.google.com/speed/pagespeed/insights/
+
+2. https://tools.pingdom.com/
+
+3. https://gtmetrix.com/
+
+
+Optimization without Plugin:
+
+1. Minify your style.css file and js file.
+2. Optimize your image
+3. Minify HTML file
+
+Optimization with Plugin:
+
+1. Wp Rocket Premium
+2. Imagify
+3. Create imagify api
+
+Now see your after report.
+
+
+
+
+
+
